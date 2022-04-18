@@ -1,0 +1,22 @@
+body {
+    background: url(https://oir.mobi/uploads/posts/2021-03/1616609658_31-p-chernii-fon-dlya-vizitki-35.jpg) ;
+     margin-left: 8%;
+    margin-right: 8%;
+   margin-top: 8%;
+   }
+   td, th {
+    background: url(https://filmix.ac/templates/Filmix/media/img/404.png);
+    padding: 5px;
+   }
+   center{
+   border: 3px solid #FFFFFF;
+   padding: 10px;
+   }
+   table {
+    width: 100%;
+    background:white;
+    color: #DCDCDC;
+    border-spacing: 1px;
+    table-layout: fixed;
+    width: 100%;
+    }
